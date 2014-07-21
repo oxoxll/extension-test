@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "test",
+  "description": "chrome test",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html",
+    "default_title": "my test"
+  }
+}
